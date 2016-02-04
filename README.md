@@ -6,11 +6,11 @@
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<We had to clone a file, make edits, and finally push it back on to the Master .\>_
 
 ## What I Learned from This
 
-_\<I learned how to clone a repository,Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned how to clone a repository, download it as a local file, make edits, and push it back up to github.\>_
 
 ## Honor Pledge
 
