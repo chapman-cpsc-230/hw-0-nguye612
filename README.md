@@ -10,7 +10,7 @@ _\<We had to clone a file, make edits, and finally push it back on to the Master
 
 ## What I Learned from This
 
-_\<I learned how to clone a repository, download it as a local file, make edits, and push it back up to github.\>_
+_\<I learned how to clone a repository, download it as a local file, make edits, perform a commit, and push it back up to github.\>_
 
 ## Honor Pledge
 
